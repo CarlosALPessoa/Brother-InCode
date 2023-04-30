@@ -583,3 +583,54 @@ background:#bfb7b7;
 	background: #cecece;
 }
 
+/*RODAPÉ*/
+#conteiner-rodape{
+	background-color: #00B907;
+	padding: 20px;
+	opacity: 50%;
+}
+
+#rodape{
+	width: 750px;
+	margin: 0 auto;
+	color: #00B907;
+}
+
+/* * ESTILOS LINK CORPO MAINv2*/
+
+#texto-corpo2 ul {
+    max-width: 100%;
+    list-style: none;
+}
+
+#texto-corpo2 ul li a {
+    display: inline-block;
+    transition: #cccccc .4s;
+	padding: 10px 10px;
+
+	text-decoration: none;
+	
+	font-size: 16px;
+	line-height: 30px;
+}
+
+#texto-corpo2 ul li a:hover{
+	background-color: #06f00d;
+}
+
+#sobre2{
+	position:fixed;
+	background:#63b366ac;
+	color:#006404;
+	margin: -1150px 110px -20px 980px; /** x=alt in position y= largura comprimento larg z = idontknow a= left position*/	
+	border-radius: 20%;
+	padding: 10px 5px 10px 10px;
+
+	/*Font style*/
+	text-align: center;
+	font-family: 'Fira Code', monospace;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 12px;
+	text-align: left;
+}
